@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Zack.
+# 👋 hello! i'm Zack.
 
-## 💼 Here's what I'm currently working on:
+## 💼 here's what i'm currently working on:
 
 📈 [**hermes**](https://github.com/nhzaci/hermes) 
 - a trading system project written in C++20
