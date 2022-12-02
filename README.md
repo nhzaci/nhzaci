@@ -6,7 +6,7 @@
 
 📈 [**hermes**](https://github.com/nhzaci/hermes) 
 
-![hermes](https://github-readme-stats.vercel.app/api/pin/?username=nhzaci&repo=hermes&cache_seconds=86400&theme=tokyonight)
+- trading system project written in C++20
 - aims to be able to handle end-to-end flows from the feed handler, to sending orders out to an exchange
 
 📝 **intrvwr** 
