@@ -1,7 +1,5 @@
 # 👋 hello! i'm Zack.
 
-![nhzaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhzaci&count_private=true&show_icons=true&theme=tokyonight)
-
 ## 💼 here's what i'm currently working on:
 
 📈 [**hermes**](https://github.com/nhzaci/hermes) 
